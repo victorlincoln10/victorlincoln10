@@ -1,4 +1,4 @@
-### Salve, sou o Victor 
+### Olá, sou o Lincoln  
 
 - 🔭 Estou atualmente trabalhando com React Native e Java Script 
 - 💻 Estudando dev Web e Mobile em geral
