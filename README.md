@@ -16,7 +16,9 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <br>
-  <img align="center" alt="Rafa-pic" height=190" style="border-radius:100px;" src="https://c.tenor.com/oCXowWQ1i5wAAAAC/venti-genshin-impact.gif">
+ </div>
+<div alignItem="center">
+  <img  alt="Rafa-pic" height=190" style="border-radius:100px;" src="https://c.tenor.com/oCXowWQ1i5wAAAAC/venti-genshin-impact.gif">
 </div>
                                                                                                                                                 
 ##
