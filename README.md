@@ -18,7 +18,7 @@
   <br>
  </div>
 <div style={{align-items: center}}>
-  <img  alt="Rafa-pic" height=190" style="border-radius:100px;" src="https://c.tenor.com/oCXowWQ1i5wAAAAC/venti-genshin-impact.gif">
+  <img alt="Rafa-pic" height=190" style="border-radius:100px;" src="https://c.tenor.com/oCXowWQ1i5wAAAAC/venti-genshin-impact.gif">
 </div>
                                                                                                                                                 
 ##
