@@ -1,7 +1,7 @@
 ### Olá, sou o Lincoln  
 
-- 🔭 Estou atualmente trabalhando com React Native e Java Script 
-- 💻 Estudando dev Web e Mobile em geral
+- 🔭 React Native e Java Script 
+- 💻 Estudando dev React JS
 
 <div align="center">
   <a href="https://github.com/victorlincoln10">
